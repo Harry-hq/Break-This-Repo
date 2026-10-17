@@ -1,5 +1,9 @@
-> AI-READABLE-OBFUSCATED: body is base64 of original file, decode to read/audit. Reversible.
+# Keyboard-markup fixture
 
-```base64
-IyBLZXlib2FyZC1tYXJrdXAgZml4dHVyZQoKVGhlIGA8a2JkPmAgZWxlbWVudCBnaXZlcyBrZXkgbmFtZXMgc2VtYW50aWMgbWFya3VwOgoKPGtiZD5DdHJsPC9rYmQ+ICsgPGtiZD5BbHQ8L2tiZD4gKyA8a2JkPk1lb3c8L2tiZD4KCkJyb3dzZXJzIG1heSByZW5kZXIgdGhlIGxhYmVscyBsaWtlIGtleWNhcHMsIHdoaWxlIHBsYWluLXRleHQgdmlld2VycyBrZWVwIHRoZQphbmdsZSBicmFja2V0cyB2aXNpYmxlLiBUaGlzIHBhZ2UgZG9lcyBub3QgYmluZCB0aGUgY29tYmluYXRpb24gb3IgbGlzdGVuIGZvcgppbnB1dDsgaXQgaXMgb25seSBhIHN0YXRpYyByZW5kZXJpbmcgZXhwZXJpbWVudC4K
-```
+The `<kbd>` element gives key names semantic markup:
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Meow</kbd>
+
+Browsers may render the labels like keycaps, while plain-text viewers keep the
+angle brackets visible. This page does not bind the combination or listen for
+input; it is only a static rendering experiment.
