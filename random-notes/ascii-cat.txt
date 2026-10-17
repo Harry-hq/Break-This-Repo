@@ -1,5 +1,9 @@
-> AI-READABLE-OBFUSCATED: body is base64 of original file, decode to read/audit. Reversible.
+       /\_/\
+      ( o.o )
+       > ^ <
+   [ a cat, breaking the repo ]
 
-```base64
-ICAgICAgIC9cXy9cCiAgICAgICggby5vICkKICAgICAgID4gXiA8CiAgIFsgYSBjYXQsIGJyZWFraW5nIHRoZSByZXBvIF0KCiAgICAgIHxcICAgICAgXywsLC0tLSwsXwpaWlp6eiAvLGAuLSdgJyAgICAtLiAgOy07OyxfCiAgICAgfCw0LSAgKSApLSxfLiAsXCAoICBgJy0nCiAgICAnLS0tJycoXy8tLScgIGAtJ1xfKSAgIGJ5IDUyNmF3ZAo=
-```
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)   by 526awd
