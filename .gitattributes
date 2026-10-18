@@ -1,1 +1,18 @@
-
+# Exclude restored giant projects from language stats.
+Eaglercraftx-1.8.8-src/** linguist-vendored
+FFmpeg/** linguist-vendored
+Grasscutter/** linguist-vendored
+MCRe-NoiseFarlands-MCRef_stable-FloatPerlinNoiseVer/** linguist-vendored
+MCRe-NoiseFarlandsJava/** linguist-vendored
+OpenJDK_25.0.3/** linguist-vendored
+PowerShell-Docs/** linguist-vendored
+PowerToys/** linguist-vendored
+dmca/** linguist-vendored
+dotnet/** linguist-vendored
+haystack/** linguist-vendored
+linguist/** linguist-vendored
+llvm/** linguist-vendored
+onnxruntime/** linguist-vendored
+rust-corpus/** linguist-vendored
+semantic-kernel/** linguist-vendored
+terminal/** linguist-vendored
