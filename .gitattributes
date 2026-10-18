@@ -16,19 +16,3 @@ onnxruntime/** linguist-vendored
 rust-corpus/** linguist-vendored
 semantic-kernel/** linguist-vendored
 terminal/** linguist-vendored
-
-# Root-level restored legacy code (exclude from language stats).
-/*.c linguist-vendored
-/*.h linguist-vendored
-/*.cpp linguist-vendored
-/*.ts linguist-vendored
-/*.js linguist-vendored
-/*.mjs linguist-vendored
-/*.sh linguist-vendored
-/*.mk linguist-vendored
-/*.nix linguist-vendored
-/*.toml linguist-vendored
-/*.yml linguist-vendored
-/*.html linguist-vendored
-/*.bat linguist-vendored
-/Makefile* linguist-vendored
