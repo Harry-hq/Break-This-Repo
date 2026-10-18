@@ -1,9 +1,1 @@
-# Rebalance GitHub language stats drowned by mega Rust trees.
-*.rs linguist-vendored
-**/target/** linguist-vendored
 
-# Exclude MCFunction folders from language stats.
-mc_functions/** linguist-vendored
-mc_functions1/** linguist-vendored
-mc_functions2/** linguist-vendored
-mc_functions3/** linguist-vendored
