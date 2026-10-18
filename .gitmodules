@@ -263,3 +263,63 @@
 	path = GITLNK/modules/RCE
 	url = https://github.com/happymimimix/Break-This-Repo-Even-Further.git
 	ignore = all
+
+[submodule "dotnet"]
+	path = dotnet
+	url = https://github.com/dotnet/runtime.git
+
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/llvm/llvm-project.git
+
+[submodule "OpenJDK_25.0.3"]
+	path = OpenJDK_25.0.3
+	url = https://github.com/openjdk/jdk.git
+
+[submodule "onnxruntime"]
+	path = onnxruntime
+	url = https://github.com/microsoft/onnxruntime.git
+
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+
+[submodule "PowerToys"]
+	path = PowerToys
+	url = https://github.com/microsoft/PowerToys.git
+
+[submodule "Grasscutter"]
+	path = Grasscutter
+	url = https://github.com/Grasscutters/Grasscutter.git
+
+[submodule "linguist"]
+	path = linguist
+	url = https://github.com/github-linguist/linguist.git
+
+[submodule "semantic-kernel"]
+	path = semantic-kernel
+	url = https://github.com/microsoft/semantic-kernel.git
+
+[submodule "terminal"]
+	path = terminal
+	url = https://github.com/microsoft/terminal.git
+
+[submodule "PowerShell-Docs"]
+	path = PowerShell-Docs
+	url = https://github.com/MicrosoftDocs/PowerShell-Docs.git
+
+[submodule "dmca"]
+	path = dmca
+	url = https://github.com/github/dmca.git
+
+[submodule "MCRe-NoiseFarlandsJava"]
+	path = MCRe-NoiseFarlandsJava
+	url = https://github.com/MFSCelebrate/MCRe-NoiseFarlandsJava.git
+
+[submodule "MCRe-NoiseFarlands-MCRef_stable-FloatPerlinNoiseVer"]
+	path = MCRe-NoiseFarlands-MCRef_stable-FloatPerlinNoiseVer
+	url = https://github.com/MFSCelebrate/MCRe-NoiseFarlands.git
+
+[submodule "Eaglercraftx-1.8.8-src"]
+	path = Eaglercraftx-1.8.8-src
+	url = https://github.com/Eaglercraft-Archive/Eaglercraftx-u19-source.git
