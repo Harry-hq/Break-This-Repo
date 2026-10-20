@@ -323,3 +323,6 @@
 [submodule "Eaglercraftx-1.8.8-src"]
 	path = Eaglercraftx-1.8.8-src
 	url = https://github.com/Eaglercraft-Archive/Eaglercraftx-u19-source.git
+[submodule "fabric-loader-0.19.3"]
+	path = fabric-loader-0.19.3
+	url = https://github.com/FabricMC/fabric-loader
