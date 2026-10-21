@@ -152,7 +152,8 @@
 
 ---
 
-<img src="https://simpleicons.org/icons/scpfoundation.svg" width="120" height="120" />
+<img src="./readme/scpfoundation.svg" width="120" height="120" />
+<img src="./readme/mc-department.png" width="120" height="120" />
 
 > [!CAUTION]
 > Warning: This repository contains content that may cause Level III mental contamination, please read with caution
