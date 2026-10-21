@@ -493,3 +493,8 @@ public licenses.
 Creative Commons may be contacted at creativecommons.org.
 
 ```
+
+## readme/ 目录中的图标
+
+- `scpfoundation.svg` — SCP 基金会标志。来源：Simple Icons（https://simpleicons.org/icons/scpfoundation.svg），图标文件采用 CC0 1.0；SCP 标志本身属于 SCP 维基。
+- `mc-department.png` — 模因与反模因部（Memetics and Countermemetics Department）图标。作者：HarryBlank；授权：CC BY 3.0；来源：SCP 维基 Site-43 档案（https://scp-wiki.wikidot.com/secure-facility-dossier-site-43）。
