@@ -326,3 +326,22 @@
 [submodule "fabric-loader-0.19.3"]
 	path = fabric-loader-0.19.3
 	url = https://github.com/FabricMC/fabric-loader
+
+[submodule "msquic/submodules/clog"]
+	path = msquic/submodules/clog
+	url = https://github.com/microsoft/CLOG.git
+[submodule "msquic/submodules/googletest"]
+	path = msquic/submodules/googletest
+	url = https://github.com/google/googletest
+[submodule "msquic/submodules/openssl"]
+	path = msquic/submodules/openssl
+	url = https://github.com/openssl/openssl
+	branch = openssl-3.5
+[submodule "msquic/submodules/quictls"]
+	path = msquic/submodules/quictls
+	url = https://github.com/quictls/openssl.git
+	branch = main
+[submodule "msquic/submodules/xdp-for-windows"]
+	path = msquic/submodules/xdp-for-windows
+	url = https://github.com/microsoft/xdp-for-windows.git
+	branch = release/1.4
